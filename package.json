@@ -1,0 +1,27 @@
+{
+  "name": "intro-to-express-lab",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shondoe11/intro-to-express-lab.git"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shondoe11/intro-to-express-lab/issues"
+  },
+  "homepage": "https://github.com/shondoe11/intro-to-express-lab#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
